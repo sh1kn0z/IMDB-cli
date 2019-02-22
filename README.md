@@ -12,4 +12,4 @@ Command line tool for searching in IMDB.com
 ## Examples:
 > python main.py -t lord of the rings --title_type tv_movie
 
-![IMDB cli screenshot](https://www.photobox.co.uk/my/photo/full?photo_id=501680315618)
+![IMDB cli screenshot](https://serving.photos.photobox.com/409676075ac40445db8bbffc009830904f4e2822aba7676b5df46a3ad2066e06f057085a.jpg)
